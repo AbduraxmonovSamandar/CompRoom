@@ -1,0 +1,7 @@
+form, .modal-link{
+    display: inline;
+}
+
+input[type=number]{
+    width: 50px;
+}
